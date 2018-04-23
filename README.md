@@ -21,6 +21,7 @@ I made a Discord chatbot for my friends one weekend and decided to strip all per
 
 - Use MongoDB & Mongoose
 - Dialogflow for ML chatbot
+- Chalk.js for pretty console messages
 
 # Changelog
 - v1.0 (04/23/18) - Release barebones app
