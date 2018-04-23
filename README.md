@@ -10,7 +10,6 @@ I made a Discord chatbot for my friends one weekend and decided to strip all per
 
 # Run
 
-- Supply discord api token in `.env` (Using `npm i dotenv`)
 - `node z-bot.js`
 
 # Development
