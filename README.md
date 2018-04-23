@@ -5,8 +5,8 @@ I made a Discord chatbot for my friends one weekend and decided to strip all per
 
 1. `npm install`
 1. Create a Discord bot on [Discord's developer site](https://discordapp.com/developers/applications/me)
-1. Add bot to your Discord server
 1. Supply API token in `.env` file (`DISCORD_TOKEN=your_api_token_here`)
+1. Add bot to your Discord server
 
 # Run
 
